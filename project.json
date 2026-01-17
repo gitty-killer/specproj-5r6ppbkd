@@ -1,0 +1,6 @@
+{
+  ""name"": ""specproj-5r6ppbkd"",
+  ""goal"": ""index builder for incident response"",
+  ""language"": ""go"",
+  ""template"": ""go-service""
+}
